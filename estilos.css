@@ -1,0 +1,22 @@
+header {
+    color: red;
+    font-size: 28px;
+  }
+  
+  body {
+    text-align: center;
+  }
+  
+
+ .style-button{
+    background-color: transparent;
+    color: #000;
+ }
+
+ .style-button2 {
+    color: #fff;
+    background-color: #5f5de4;
+ }
+ .style-link {
+    color:#5f5de4
+ }
